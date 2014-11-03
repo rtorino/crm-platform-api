@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/rtorino/crm-platform-api",
   "dependencies": {
+    "bcrypt": "^0.8.0",
     "bcryptjs": "^2.1.0",
     "boom": "^2.6.0",
     "glob": "^4.0.6",
